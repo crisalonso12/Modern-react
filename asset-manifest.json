@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modern-react/static/css/main.e6c13ad2.css",
+    "main.js": "/Modern-react/static/js/main.ad9c6f04.js",
+    "index.html": "/Modern-react/index.html",
+    "main.e6c13ad2.css.map": "/Modern-react/static/css/main.e6c13ad2.css.map",
+    "main.ad9c6f04.js.map": "/Modern-react/static/js/main.ad9c6f04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad9c6f04.js"
+  ]
+}
